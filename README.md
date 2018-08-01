@@ -1,6 +1,6 @@
 ## XibTool
 
- ![image](https://raw.githubusercontent.com/MinusPlusDD/xibtool/master/icon_256.png)
+ ![image](https://raw.githubusercontent.com/MinusPlusDD/xibtool/master/icon.png)
 
 XibTool is a handy tool to easily convert .xib files to .storyboard without the hassle of manually copying views, losing your outlets and possibly constraints in the process.
 
